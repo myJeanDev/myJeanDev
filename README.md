@@ -1,4 +1,10 @@
-## hi im jean 🐸
-i'm a recent CS graduate! 
-that is my second degree, my first was in electronic arts
-so naturally i make games for fun
+<h1 align="center">hi im jean 🐸</h1>
+<p align="center">i like to build things</p>
+<p align="center">i studied electronic art & computer science</p>
+<p align="center">i make <a href="https://myjeandev.itch.io/">games</a> for fun</p>
+<br />
+<br />
+<p align="center"><img src="myJeanDev-website.png" width="400"/></p>
+
+<p align="center"><a href="https://myjeandev.com/">myJeanDev.com</a></p>
+  
