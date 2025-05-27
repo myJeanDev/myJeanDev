@@ -1,7 +1,7 @@
-<p align="center">i studied electronic art & computer science</p>
-<p align="center">i make <a href="https://myjeandev.itch.io/">games</a> for fun</p>
+## Hello I'm Jean!
+I'm a recent Computer science graduate who has a second degree in electronic art. I like to make <a href="https://myjeandev.itch.io/">games</a> for fun.
 <br />
-<p align="center"><img src="myJeanDev-website.png" width="400"/></p>
+<img src="myJeanDev-website.png" width="400"/>
 
-<p align="center"><a href="https://myjeandev.com/">myJeanDev.com</a></p>
+<a href="https://myjeandev.com/">myJeanDev.com</a>
   
