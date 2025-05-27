@@ -1,5 +1,3 @@
-<h1 align="center">hi im jean 🐸</h1>
-<p align="center">i like to build things</p>
 <p align="center">i studied electronic art & computer science</p>
 <p align="center">i make <a href="https://myjeandev.itch.io/">games</a> for fun</p>
 <br />
